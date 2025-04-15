@@ -5,3 +5,5 @@ building chatbot for fintech in egypt
 RAG 
 ChromaDB
 Ollama
+
+## under development
